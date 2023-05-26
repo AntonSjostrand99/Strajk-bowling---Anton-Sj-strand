@@ -70,7 +70,7 @@ function Booking() {
     }
 
     function comparePeopleAndShoes() {
-        return (parseInt(booking.people) * parseInt(booking.lanes)) === shoes.length;
+        return parseInt(booking.people) === shoes.length;
     }
 
     async function book() {
