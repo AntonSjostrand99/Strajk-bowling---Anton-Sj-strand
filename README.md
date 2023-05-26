@@ -27,8 +27,8 @@ Acceptans kriterier:
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 Acceptans kriterier: 
-1.Kunna klicka sig vidare från bokningsida till bekräftelsesidan. 
-2.Kunna klicka på navigerings ikonen och kunna gå vidare till boknings bekräftningsen.
+1. Kunna klicka sig vidare från bokningsida till bekräftelsesidan. 
+2. Kunna klicka på navigerings ikonen och kunna gå vidare till boknings bekräftningsen.
 
 
 
