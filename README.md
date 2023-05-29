@@ -22,7 +22,8 @@ Acceptans kriterier:
 Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).
 Acceptans kriterier:
 1. Kunna lägga en boking.
-2. Alla inputfält ska vara ifyllda annars inte gå att boka.
+2. Alla inputfält ska vara ifyllda annars går de inte att boka.
+3. Få ett bokingsnummer när man har lagt en beställning
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 Acceptans kriterier: 
