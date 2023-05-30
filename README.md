@@ -37,6 +37,7 @@ _________________
 Acceptans kriterier: 
 - Kunna klicka sig vidare från bokningsida till bekräftelsesidan. 
 - Kunna klicka på navigerings ikonen och kunna gå vidare till boknings bekräftningsen.
+- Kunna öpnna upp navigerings menyn
 _________________
 
 
