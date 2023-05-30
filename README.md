@@ -25,6 +25,7 @@ Acceptans kriterier:
 - Alla inputfält ska vara ifyllda annars går de inte att boka.
 - Få ett bokingsnummer när man har lagt en beställning.
 - Få tillbaka en bekräftelse med total summan och vad de kostar per person.
+- Måste vara lika många skor ifyllda som antal spelare för att kunna lägga en bokning.
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 Acceptans kriterier: 
