@@ -24,7 +24,7 @@ Acceptans kriterier:
 1. Kunna lägga en boking.
 2. Alla inputfält ska vara ifyllda annars går de inte att boka.
 3. Få ett bokingsnummer när man har lagt en beställning.
-4. 
+4. Få tillbaka en bekräftelse med total summan och vad de kostar per person.
 
 Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.
 Acceptans kriterier: 
