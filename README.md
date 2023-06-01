@@ -7,7 +7,7 @@ _________________
 
 Acceptans kriterier: 
 - Kunna fylla i datum för bokning. :heavy_check_mark:
-- Kunna fylla i tid för bokning.
+- Kunna fylla i tid för bokning. &check;
 - Kunna lägga till antal spelare vid bokning.
 - kunna välja antal banor vid bokning.
 _________________
