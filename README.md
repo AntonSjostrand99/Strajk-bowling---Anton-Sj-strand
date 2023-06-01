@@ -6,7 +6,7 @@ _________________
 **Som användare vill jag kunna boka datum och tid samt ange antal spelare så att jag kan reservera 1 eller flera baner i bowlinghallen.**
 
 Acceptans kriterier: 
-- Kunna fylla i datum för bokning.
+- Kunna fylla i datum för bokning. - [x]
 - Kunna fylla i tid för bokning.
 - Kunna lägga till antal spelare vid bokning.
 - kunna välja antal banor vid bokning.
