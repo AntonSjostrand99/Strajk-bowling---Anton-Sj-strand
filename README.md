@@ -7,21 +7,21 @@ _________________
 
 Acceptans kriterier: 
 - Kunna fylla i datum för bokning. :heavy_check_mark:
-- Kunna fylla i tid för bokning. &check;
-- Kunna lägga till antal spelare vid bokning.
-- kunna välja antal banor vid bokning.
+- Kunna fylla i tid för bokning. :heavy_check_mark:
+- Kunna lägga till antal spelare vid bokning. :heavy_check_mark:
+- kunna välja antal banor vid bokning. :heavy_check_mark:
 _________________
 **Som användare vill jag kunna välja skostorlek för varje spelare så varje spelare får skor som passar.**
 
 Acceptans kriterier:
-- Kunna skriva in sin skostorlek. 
+- Kunna skriva in sin skostorlek. :heavy_check_mark:
 - Kunna lägga till inputfält för att fylla i skostorlek till varje spelare. 
-- Det ska va lika många skor ifyllda som antal spelare för att kunna boka bana.
+- Det ska va lika många skor ifyllda som antal spelare för att kunna boka bana. :heavy_check_mark:
 _________________
 **Som användare vill jag kunna ta bort ett fält för skostorlek om jag råkade klicka i ett för mycket så jag inte boka skor i onödan.**
 
 Acceptans kriterier:
-- Kunna ta bort ett fält för skostorlekarna.
+- Kunna ta bort ett fält för skostorlekarna. :heavy_check_mark:
 _________________
 **Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).**
 
@@ -35,9 +35,9 @@ _________________
 **Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.**
 
 Acceptans kriterier: 
-- Kunna klicka sig vidare från bokningsida till bekräftelsesidan. 
-- Kunna klicka på navigerings ikonen och kunna gå vidare till boknings bekräftningsen.
-- Kunna öppna upp navigerings menyn
+- Kunna klicka sig vidare från bokningsida till bekräftelsesidan. :heavy_check_mark:
+- Kunna klicka på navigerings ikonen och kunna gå vidare till boknings bekräftningsen. :heavy_check_mark:
+- Kunna öppna upp navigerings menyn :heavy_check_mark:
 _________________
 
 
