@@ -28,9 +28,9 @@ _________________
 Acceptans kriterier:
 - Kunna lägga en boking.
 - Alla inputfält ska vara ifyllda annars går de inte att boka. :heavy_check_mark:
-- Få ett bokingsnummer när man har lagt en beställning. 
+- Få ett bokingsnummer när man har lagt en beställning. :heavy_check_mark:
 - Få tillbaka en bekräftelse med total summan och vad de kostar per person. :heavy_check_mark:
-- Måste vara lika många skor ifyllda som antal spelare för att kunna lägga en bokning.
+- Måste vara lika många skor ifyllda som antal spelare för att kunna lägga en bokning. :heavy_check_mark:
 _________________
 **Som användare vill jag kunna navigera mellan boknings-och bekräftelsevyn.**
 
