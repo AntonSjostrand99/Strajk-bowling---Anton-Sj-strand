@@ -15,7 +15,7 @@ _________________
 
 Acceptans kriterier:
 - Kunna skriva in sin skostorlek. :heavy_check_mark:
-- Kunna lägga till inputfält för att fylla i skostorlek till varje spelare. 
+- Kunna lägga till inputfält för att fylla i skostorlek till varje spelare.  :heavy_check_mark:
 - Det ska va lika många skor ifyllda som antal spelare för att kunna boka bana. :heavy_check_mark:
 _________________
 **Som användare vill jag kunna ta bort ett fält för skostorlek om jag råkade klicka i ett för mycket så jag inte boka skor i onödan.**
