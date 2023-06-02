@@ -26,7 +26,7 @@ _________________
 **Som användare vill jag kunna skicka iväg min reservation och få tillbaka ett ett bokningsnummer och totalsumma så jag vet hur mycket jag ska betala. (120 kr / person + 100 kr / bana).**
 
 Acceptans kriterier:
-- Kunna lägga en boking.
+- Kunna lägga en boking. :heavy_check_mark:
 - Alla inputfält ska vara ifyllda annars går de inte att boka. :heavy_check_mark:
 - Få ett bokingsnummer när man har lagt en beställning. :heavy_check_mark:
 - Få tillbaka en bekräftelse med total summan och vad de kostar per person. :heavy_check_mark:
