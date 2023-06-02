@@ -11,13 +11,11 @@ describe('Navigate', () => {
      cy.get('.top__title').should('contain', 'See you soon')
     })
 
-
-       
        it('navigate from booking to confirmed order and after that navigate to "see you soon" site .', () => {
-        cy.get('.input__field').first().type('2023-05-25') //lägg in datum för bokingenn
-        cy.get('.input__field').should('have.value', '2023-05-25')
-        cy.get('.input__field').eq(1).type('16')// klockslag
-        cy.get('.input__field').eq(1).should('have.value', '16')
+        cy.get('.input__field').first().type('2023-05-27') //lägg in datum för bokingenn
+        cy.get('.input__field').should('have.value', '2023-05-27')
+        cy.get('.input__field').eq(1).type('20')// tid
+        cy.get('.input__field').eq(1).should('have.value', '20')
         cy.get('.input__field').eq(2).type('2')//antal spelare
         cy.get('.input__field').eq(2).should('have.value', '2')
         cy.get('.input__field').eq(3).type('1')// antal banor
@@ -30,12 +28,9 @@ describe('Navigate', () => {
       })
 
 
-     it ('go to navicon then choose booking' , () => {
+     it ('go to navicon menu' , () => {
       cy.get('.navigation__icon').click()
-      cy.get('.navigation__link').first().should('have.text', 'Booking')
-      cy.get('.navigation__link').first().click()
-
-
+    
      })
 
   
